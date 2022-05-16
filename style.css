@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.main {
+    margin: 5vh;
+}
+body {
+    background-image: url("switch board 2.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+header {}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 20px 5px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(97, 5, 245);
+    padding: 5px 10px;
+    border: 2px solid black;
+    transition: 0.6s ease;
+}
+.logo img{
+    float: left;
+    width: 10vw;
+    height: 10vh;
+    margin-bottom: 2vh;
+}
+.body1 p{
+    border: 2px solid rgb(239, 59, 59);
+    border-radius: 10vh;
+    padding: 5vh;
+    display: block;
+    word-spacing: 1px;
+    color: brown;
+    font-size: 20px;
+    background-color: #42cbc7ab;
+    
+}
+.body1{
+    margin: 5vw;
+    width: 50vw;
+    margin-left: 20vw;
+}
+h2{
+    font-size: 35px;
+}
+h2, h3, h4{
+    text-align: center;
+}
+.body1 img{
+    width: 25vw;
+    margin-top: 5vh;
+    margin-left: 10vw;
+    margin-right: 30vw;
+}
+.footer1 a,p{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
